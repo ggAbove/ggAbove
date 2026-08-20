@@ -1,7 +1,7 @@
 <h1 align="center">Danil Gabov</h1>
 
 <p align="center">
-  <img src="./profile.svg?v=5" alt="ggAbove ~ neofetch" width="900" />
+  <img src="https://raw.githubusercontent.com/ggAbove/ggAbove/main/profile.svg?v=6" alt="ggAbove ~ neofetch" width="900" />
 </p>
 
 <p align="center">
